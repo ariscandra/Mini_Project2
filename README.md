@@ -146,6 +146,8 @@ Gambar di atas adalah menu utama dari program ini. Pada menu ini, pengguna dapat
 
 <p align="justify">Pengguna dapat memilih opsi 2 pada menu utama untuk masuk ke menu kustomer. Di menu kustomer, terdapat opsi pemilihan jasa dan kembali ke menu utama.</p>
 
+### Penjelasan Menu Kustomer 
+
 <p align="justify"> Perlu saya jelaskan bahwa angka pilihan untuk opsi kembali ke menu utama akan berubah sesuai dengan jumlah jasa yang ada pada daftar jasa laundry. Misalnya, jika ada 7 jasa laundry, maka opsi kembali ke menu utama akan menjadi 8. Bisa dilihat pada gambar di bawah.</p>
 
 <img src="https://github.com/user-attachments/assets/1cba3a97-c3bb-4c5d-aa72-e24333c7e7f0" width="400">
