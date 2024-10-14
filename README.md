@@ -31,7 +31,7 @@ Fitur tambahan masih ditampung. Terimakasih Bang Arya.
 
 berikut adalah flowchart dari program ini:
 
-<img src="https://github.com/user-attachments/assets/907fe9a5-3de5-45d4-a84a-2ee7119cdc00" width="200px">
+<img src="https://github.com/user-attachments/assets/cc23a5fe-cd06-4cab-82a9-174eb28212e9" width="200px">
 
 Klik gambar atau <a href="https://github.com/user-attachments/assets/907fe9a5-3de5-45d4-a84a-2ee7119cdc00" target="_blank">di sini</a> untuk melihat flowchart lebih besar
 
