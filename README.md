@@ -208,9 +208,9 @@ Gambar di atas adalah menu utama dari program ini. Pada menu ini, pengguna dapat
 <img src="https://github.com/user-attachments/assets/b610ec16-6bfd-438d-804c-ccc941681164" width="400">
 <p align="justify">Opsi terakhir di menu kustomer adalah pilihan untuk kembali ke menu utama. Jika pengguna memasukkan pilihan ini, maka akan muncul pesan "Kembali ke menu utama" dan pengguna akan diarahkan kembali ke menu utama.</p>
 
-**3. Angka selain 1 sampai len(jasa)**
+**3. Angka selain 1 sampai len(jasa)+1**
 
 <img src="https://github.com/user-attachments/assets/c6b302a2-dbe2-4e98-bea8-aea005d397f5" width="400">
-<p align="justify"> Jika pengguna memasukkan angka selain 1-len(jasa), maka akan muncul pesan "Pilihan tidak valid. Silakan coba lagi." dan pengguna akan diminta untuk mengulangi input sampai pilihan yang dimasukkan valid.</p>
+<p align="justify"> Jika pengguna memasukkan angka selain 1 sampai len(jasa)+1, maka akan muncul pesan "Pilihan tidak valid. Silakan coba lagi." dan pengguna akan diminta untuk mengulangi input sampai pilihan yang dimasukkan valid.</p>
 
 ## DEMI APA??? DEMIKIAAAANN. TERIMAKASIH, SAYONARAAA.
