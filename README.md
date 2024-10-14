@@ -154,13 +154,13 @@ Gambar di atas adalah menu utama dari program ini. Pada menu ini, pengguna dapat
 
 <p align="justify">Jadi, ketika admin menambah atau menghapus jasa laundry, jumlah opsi kembali ke menu utama pada menu kustomer akan otomatis berubah sesuai dengan jumlah jasa laundry yang ada pada dictionary.</p>
 
-**1. Pilihan 1-len(jasa)**
+**1. Pilihan 1 sampai len(jasa)**
 <p align="justify">Perlu dijelaskan lagi bahwa pilihan menu kustomer len(jasa) akan berubah sesuai dengan jumlah jasa laundry yang tersedia. Itulah kegunaan dari len(jasa) pada menu kustomer.</p>
-<p align="justify">Pengguna dapat memilih salah satu jasa laundry yang tersedia dengan memasukkan nomor jasa laundry yang diinginkan. 
+<p align="justify">Pengguna dapat memilih salah satu jasa laundry yang tersedia dengan memasukkan nomor jasa laundry yang diinginkan.</p> 
 
 <img src="https://github.com/user-attachments/assets/06178fb5-15b3-433b-a4f4-946c6e103687" width="400">
 
-<p align="justify">Pada gambar di atas, jika pengguna memilih jasa laundry 1-len(jasa), maka akan muncul pesan "Anda memilih jasa: {jasa[pilihan_jasa]['nama']}" dan pengguna akan lanjut ke input selanjutnya.</p>
+<p align="justify">Pada gambar di atas, jika pengguna memilih jasa laundry 1 sampai len(jasa), maka akan muncul pesan "Anda memilih jasa: {jasa[pilihan_jasa]['nama']}" dan pengguna akan lanjut ke input selanjutnya.</p>
 
 <img src="https://github.com/user-attachments/assets/9c78dc06-3293-4d6a-8535-e906897fa424" width="400">
 
@@ -206,7 +206,7 @@ Gambar di atas adalah menu utama dari program ini. Pada menu ini, pengguna dapat
 <img src="https://github.com/user-attachments/assets/b610ec16-6bfd-438d-804c-ccc941681164" width="400">
 <p align="justify">Opsi terakhir di menu kustomer adalah pilihan untuk kembali ke menu utama. Jika pengguna memasukkan pilihan ini, maka akan muncul pesan "Kembali ke menu utama" dan kembali ke menu utama.</p>
 
-**3. Angka selain 1-len(jasa)**
+**3. Angka selain 1 sampai len(jasa)**
 
 <img src="https://github.com/user-attachments/assets/c6b302a2-dbe2-4e98-bea8-aea005d397f5" width="400">
 <p align="justify"> Jika pengguna memasukkan angka selain 1-len(jasa), maka akan muncul pesan "Pilihan tidak valid. Silakan coba lagi." dan pengguna akan diminta untuk mengulangi input sampai pilihan yang dimasukkan valid.</p>
