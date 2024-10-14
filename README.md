@@ -33,7 +33,7 @@ berikut adalah flowchart dari program ini:
 
 <img src="https://github.com/user-attachments/assets/907fe9a5-3de5-45d4-a84a-2ee7119cdc00" width="200px">
 
-[Klik di sini untuk melihat flowchart lebih besar](https://github.com/user-attachments/assets/907fe9a5-3de5-45d4-a84a-2ee7119cdc00)
+<a href="https://github.com/user-attachments/assets/907fe9a5-3de5-45d4-a84a-2ee7119cdc00" target="_blank">Klik di sini untuk melihat flowchart lebih besar</a>
 
 
 # Penjelasan Output
